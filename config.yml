@@ -1,0 +1,47 @@
+#SIZE OF THE FIELD
+size:
+  height: 30
+  width: 30
+
+#LOAD A CUSTOM PRESET OR DO A RANDOM
+custom: 
+  enabled: false
+  #NUMBER IN PERCENT
+  chance: 30
+  #RANDOM REVIVE GROUPS
+  outbreaks:
+    enabled: true
+    #CHANCE FROM 0 TO 1
+    #chance: 0.00002781652
+    chance: 0.0002
+    neighbourChance: 0.375
+
+#DESIGN AND DISPLAY OPTIONS
+display:
+  #WETHER TO SHOW NEW CELLS
+  showSpread: true
+  #WETHER TO SHOW DIED CELLS
+  showLoss: true
+  #WETHER TO USE BLACK BACKGROUND(TRUE) OR GREY(FALSE)
+  standardBackground: true
+  #USE ASCII INSTEAD
+  ascii:
+    enabled: false
+    #WETHER TO USE COLORS WITH ASCII
+    color: false
+
+#INTERATION DELAY
+delay: 50
+
+#SYMBOLS USED IN THE ASCII
+symbols:
+  spread: '8'
+  loss: '#'
+  living: 'O'
+  nothing: '-'
+
+#LOG IN FILE
+logging: false
+
+#QUIT ON IDLE
+quitOnIdle: false

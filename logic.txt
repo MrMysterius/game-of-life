@@ -1,0 +1,12 @@
+BORN / REVIVE
+
+Genau 3
+
+DEATH
+
+Less than 2 (1 / 0)
+More than 3 (4 / 5 / 6 / 7 / 8)
+
+LIVING
+
+Genau 2 oder 3

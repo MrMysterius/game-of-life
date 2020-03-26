@@ -1,0 +1,17 @@
+{
+  "name": "gameoflife",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "MrMysterius",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "js-yaml": "^3.13.1",
+    "math.js": "^1.1.46",
+    "mathjs": "^6.6.1"
+  }
+}
